@@ -2,7 +2,7 @@
 
 - 💼 Full-stack Engineer, Engineering Manager, Property Manager 
 
-- 📈 Built github-readme-stats, maintain, roadmaps & milestones on GitHub
+- 📈 Built github-readme-stats, roadmaps & milestones and code maintainer on GitHub
 
 - ❤️ I am language-agnostic and loves building and contributing to open-source projects
 
