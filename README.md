@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi I'm Suzanne 👋
+
+- 💼 Full-stack Engineer, Engineering Manager, Property Manager- 
+
+- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **31K** stars on GitHub
+
+- ❤️ I love writing TypeScript, and building fun experiments on type-level
+
+<br />
 
 <!--
 **SuzyQuant/SuzyQuant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
