@@ -4,7 +4,7 @@
 
 - 📈 Built github-readme-stats, maintain, roadmaps & milestones on GitHub
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+- ❤️ I am language-agnostic and loves building and contributing to open-source projects
 
 - 💬 Ask me about anything [here](https://github.com/SuzyQuant/SuzyQuant/issues)
 
