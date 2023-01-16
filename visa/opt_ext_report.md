@@ -14,14 +14,23 @@ Design scientific approaches, applying tried-and-true techniques or developing c
 
 &nbsp;Collaborate with data engineers and platform architects to implement robust decisioning solutions
 
-* Using Agile methods, I help draft roadmaps and have the supervisor check, edit and approve them before imiplementation. I participate in sprint planning and scrum meetings with other data engineers and architects to map out our priorities in multiple areas of the company, build roadmaps using DMADV methods and applying DMAIC methods for existing projects.
+* I participated in sprint planning and scrum meetings with other data engineers and architects across different timezones, where they map out priorities in multiple areas of the company, build roadmaps for existing projects.
+
+* Using Agile methods, I helped in drafting roadmaps with other team members with methods I learned in the company such as using DMADV and DMAIC that are Six Sigma tools. Then have the supervisor check, edit and approve these roadmaps before implementation. 
 
 ---
 
 Ensure operational and business metric health by monitoring decision points
 
-* To monitor decision points, we create roadmaps and/or milestones on GitHub. Per milestone has a set of issues that I put up&nbsp;
+* To monitor decision points and business health, milestones are created by executives and supervisors on GitHub. Milestones are big stages of development and can have multiple projects. Per project has its own multiple issues. I help as a code maintainer to address the issues inside a milestone. I help make sure that the commited Pull Requests from contributors on open-source projects are following the theme, character count, organized by priority, and hitting deadlines.
+
+---
 
 Investigate adversarial trends, identify behavior patterns, and respond with Agile logic changes
 
-Research on new technologies and methods across data science, data engineering, and data visualization to improve the technical capabilities of the team Her activities train her to attain a higher level of theoretical, analytical and practical understanding of her Physics degree.&nbsp;
+* I helped in doing market and industry research and documentations in multiple areas of the business to help them reach conclusions that are based on the current trends. During meetings, I do a lot of note-taking to help out team members that are not available because of different time-zones to be on the same page in a project. Then we go to our roadmap and kanban boards for issue creation, getting it assigned, and backlog maintenance.
+
+
+Research on new technologies and methods across data science, data engineering, and data visualization to improve the technical capabilities of the team. Her activities train her to attain a higher level of theoretical, analytical and practical understanding of her Physics degree.&nbsp;
+
+* We are to follow the SDLC guidelines when 
