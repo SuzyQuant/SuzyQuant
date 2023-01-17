@@ -1,24 +1,22 @@
 Engage with business teams to find opportunities, understand requirements, and translate those requirements into technical solutions
 
-* I helped in the researching and writing of procurements and grants for multiple client companies. I found them from US Government websites, mapped out their requirements and help built their ORBITAL<sup>TM</sup> (a proprietary business process flow). 
-
-* Specifically, I helped in drafting objectives that's aligned to the requirements of the procurement, helped in mapping out resources and budgets through market research and analysis and then create documentations and have them approved, helped in keeping track that the indicators are aligned with United Nations SDG Goals, NSF, and ARC, researched on the NAICS codes for the right transport, and helped create the activities, monitoring, evaluating, and logistics plan with the Point of Contact and other team members. I worked with a team of 6 engineers and data scientists that comprised of local and international members of different culture and in different timezones. 
-
+* I helped in the research and writing of procurements and grants for multiple client companies. I found them from US Government websites, mapped out their requirements and helped build their ORBITALTM (a proprietary business process flow).
+* Specifically, I helped in drafting objectives that's aligned to the requirements of the procurement, helped in mapping out resources and budgets through market research and analysis and then create documentations and have them approved, helped in keeping track that the indicators are aligned with United Nations SDG Goals, NSF, and ARC, researched on the NAICS codes for the right transport, and helped create the activities, monitoring, evaluating, and logistics plan with the Point of Contact and other team members. I worked with a team of 6 engineers and data scientists that comprised of local and international members of different cultures and in different time zones.
 * I also learned multiple business process flows and how they are created using Power BI.
 
 ---
 
 Design scientific approaches, applying tried-and-true techniques or developing custom algorithms as needed by the business problem
 
-* I helped by doing some custom algorithms for an HR Management App and report directly to my supervisor on progress and issues by attending scrum meetings and updating of comments on specific issues on GitHub. The App helps mitigate the problem of inconsistent clocking in and out, out of focus, setting priorities, and inefficient and insufficient output during work hours.
+* I helped by doing some custom algorithms for an HR Management App and report directly to my supervisor on progress and issues by attending scrum meetings and updating comments on specific issues on GitHub. The App helps mitigate the problem of inconsistent clocking in and out, out of focus, setting priorities, and inefficient and insufficient output during work hours.
 
 ---
 
 &nbsp;Collaborate with data engineers and platform architects to implement robust decisioning solutions
 
-* I participated in sprint planning and scrum meetings with other data engineers and architects across different timezones, where they map out priorities in multiple areas of the company and where they built roadmaps for existing projects.
-
-* Using Agile methods, I helped in drafting roadmaps with other team members with methods I learned in the company such as using DMADV and DMAIC that are Six Sigma tools. Then have the supervisor check, edit and approve these roadmaps before implementation. 
+* I participated in sprint planning and scrum meetings with other data engineers and architects across different time zones, where they map out priorities in multiple areas of the company and where they built roadmaps for existing projects.
+* Using Agile methods, I helped in drafting roadmaps with other team members with methods I learned in the company such as using DMADV and DMAIC that are Six Sigma tools. Then have the supervisor check, edit, and approve these roadmaps before implementation.
+ 
 
 ---
 
@@ -30,10 +28,10 @@ Ensure operational and business metric health by monitoring decision points
 
 Investigate adversarial trends, identify behavior patterns, and respond with Agile logic changes
 
-* I helped in checking up trends and make reports of employees work efficiency through Power BI and Spreadsheets that calculates Six Sigma. If the result goes to 4- or 5-sigma then I help investigate to find the problem in the whole process and help draft changes and if they get approved then the executives may implement these changes to obtain efficiency. During meetings, I did a lot of note-taking to help out team members that are not available because of different time-zones to be on the same page in a project. We update our Issues through commits too. Then we go to our roadmap and kanban boards for issue creation, getting it assigned, and backlog maintenance once we have an overlapping time. Basically, this is how we communicate and collaborate with each other internationally which is through our internal Kanban Boards, MS Teams Meetings, and GitHub Commits on open source projects.
+* I helped in checking trends and make reports of employees work efficiency through Power BI and Spreadsheets that calculates Six Sigma. If the result goes to 4- or 5-sigma, then I help investigate to find the problem in the whole process and help draft changes and if they get approved then the executives may implement these changes to obtain efficiency. During meetings, I did a lot of notetakings to help team members that are not available because of different time-zones to be on the same page in a project. We update our Issues through commits too. Then we go to our roadmap and Kanban boards for issue creation, getting it assigned, and backlog maintenance once we have an overlapping time. Basically, this is how we communicate and collaborate with each other internationally which is through our internal Kanban Boards, MS Teams Meetings, and GitHub Commits on open-source projects.
 
 ---
 
 Research on new technologies and methods across data science, data engineering, and data visualization to improve the technical capabilities of the team. Her activities train her to attain a higher level of theoretical, analytical and practical understanding of her Physics degree.&nbsp;
 
-* I helped in doing market and industry research and documentations in multiple areas of the business to help them reach conclusions that are based on the current trends. I did Python, DAX, SQL and C# in doing analytical calculations in finding trends and in helping build some AI products. I used Outsystems, Visio Maps, AWS QuickSight, Flourish Studio, and Office 365 among others for data visualization.
+* I helped in doing market and industry research and documentation in multiple areas of the business to help them reach conclusions that are based on the current trends. I did Python, DAX, SQL, and C# in doing analytical calculations in finding trends and in helping build some AI products. I used Outsystems, Visio Maps, AWS Quick Sight, Flourish Studio, and Office 365 among others for data visualization.
