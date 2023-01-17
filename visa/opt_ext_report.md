@@ -2,7 +2,9 @@ Engage with business teams to find opportunities, understand requirements, and t
 
 * I helped in the researching and writing of procurements and grants for multiple client companies. I found them from US Government websites, mapped out their requirements and help built their ORBITAL<sup>TM</sup> (a proprietary business process flow). 
 
-* Specifically, I helped in drafting objectives that's aligned to othe requirements of the procurement, helped in mapping out resources and budgets through market research and analysis and then create documentations and have them approved, helped in keeping track that the indicators are aligned with United Nations SDG Goals, NSF, and ARC, researched on the NAICS codes for the right transport, and helped create the activities, monitoring, evaluating, and logistics plan with the Point of Contact and other team members. I worked with a team of 6 engineers and data scientists that comprised of local and international members of different culture and in different timezones. 
+* Specifically, I helped in drafting objectives that's aligned to the requirements of the procurement, helped in mapping out resources and budgets through market research and analysis and then create documentations and have them approved, helped in keeping track that the indicators are aligned with United Nations SDG Goals, NSF, and ARC, researched on the NAICS codes for the right transport, and helped create the activities, monitoring, evaluating, and logistics plan with the Point of Contact and other team members. I worked with a team of 6 engineers and data scientists that comprised of local and international members of different culture and in different timezones. 
+
+* I also learned multiple business process flows and how they are created using Power BI.
 
 ---
 
