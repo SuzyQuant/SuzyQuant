@@ -1,4 +1,13 @@
-# Single Paragraph Answer 1
+# Synopsis
+
+
+https://www.ice.gov/doclib/sevis/pdf/i983.pdf
+https://www.ice.gov/doclib/sevis/pdf/i983Instructions.pdf
+
+<img width="272" alt="image" src="https://user-images.githubusercontent.com/61100293/214357686-807a5b88-8c96-4aff-9b20-6a7c34a72534.png">
+
+
+<img width="1336" alt="image" src="https://user-images.githubusercontent.com/61100293/214358819-c289374a-0948-4cac-bca4-1836a81bca6d.png">
 
 As an intern in the company, I have been actively engaged in various projects and initiatives that have allowed me to develop my skills as an applied scientist. 
 
