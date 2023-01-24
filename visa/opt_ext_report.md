@@ -14,7 +14,7 @@ Another important aspect of my role has been collaborating with data engineers a
 
 To ensure the operational and business metric health, I have experienced monitoring decision points by creating milestones on GitHub, and helped as a code maintainer to address the issues inside a few milestones. I also helped make sure that the committed Pull Requests from contributors on open-source projects are following the theme, character count, organized by priority, and hitting deadlines.
 
-In addition, I have been investigating adversarial trends, identifying behavior patterns, and responding with Agile logic changes. To do this, I have been using Power BI and spreadsheets to calculate Six Sigma (6σ), and if the result goes to 4- or 5σ, then I help investigate to find the problem in the whole process and help draft changes for approval.
+In addition, I have been investigating adversarial trends, identifying behavior patterns, and responding with Agile logic changes. To do this, I have been using Power BI and spreadsheets to calculate Six Sigma (6σ), and if the result goes to 4σ or 5σ, then I help investigate to find the problem in the whole process and help draft changes for approval.
 
 Finally, I have been researching new technologies and methods across data science, data engineering, and data visualization to improve the technical capabilities of the team. This has allowed me to attain a higher level of theoretical, analytical, and practical understanding of my Physics degree.
 
