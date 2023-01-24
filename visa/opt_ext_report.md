@@ -1,7 +1,9 @@
 # Synopsis
 
+Refer to Issue here - https://github.com/SuzyQuant/SuzyQuant/issues/1
 
 https://www.ice.gov/doclib/sevis/pdf/i983.pdf
+
 https://www.ice.gov/doclib/sevis/pdf/i983Instructions.pdf
 
 <img width="272" alt="image" src="https://user-images.githubusercontent.com/61100293/214357686-807a5b88-8c96-4aff-9b20-6a7c34a72534.png">
