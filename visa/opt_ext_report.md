@@ -7,13 +7,12 @@ https://www.ice.gov/doclib/sevis/pdf/i983.pdf
 https://www.ice.gov/doclib/sevis/pdf/i983Instructions.pdf
 
 <img width="272" alt="image" src="https://user-images.githubusercontent.com/61100293/214357686-807a5b88-8c96-4aff-9b20-6a7c34a72534.png">
-<img width="703" alt="image" src="https://user-images.githubusercontent.com/61100293/214362682-b638e187-427c-4be6-9023-e59614790703.png">
 
 ---
 
 <img width="1336" alt="image" src="https://user-images.githubusercontent.com/61100293/214358819-c289374a-0948-4cac-bca4-1836a81bca6d.png">
 
-As an intern in the company, I have been actively engaged in various projects and initiatives that have allowed me to develop my skills as an applied scientist. 
+As an intern in the company, I have been actively engaged in various projects and initiatives that have allowed me to develop my skills as an applied scientist. I've learned the importance of OKRs and KPIs and how to work in an Agile environment. We always start to do requirement engineering in any project. We write out the objectives and key results to be able to track their outcomes. We use S.T.A.R. (Space, Track, Assist, and Reach) to map out where we are, what is the main objective and goal(s), what resources do we have, how do we assist the project to reach our objectives/goals, and what's the current reach of the project with its current indicators.
 
 One of my key contributions has been in the research and help in writing of procurement and grant documents for multiple client companies. I was able to identify potential opportunities through US government websites, and then worked closely with my team to map out the requirements and develop a proprietary business process flow (ORBITAL<sup>TM</sup>) that met those requirements. This included drafting objectives that aligned with the procurement requirements, mapping out resources and budgets through market research and analysis, and creating documentation that was approved by our clients. Additionally, I helped ensure that our indicators were aligned with United Nations SDG Goals, NSF, and ARC, and researched on the NAICS codes for the right transport and logistics plan. I closely collaborated with the Senior Director during the first creation of ORBIT<sup>TM</sup> business process flow which now is called, ORBITAL<sup>TM</sup>.
 
@@ -29,9 +28,21 @@ To ensure the operational and business metric health, I have experienced monitor
 
 Engage with business teams to find opportunities, understand requirements, and translate those requirements into technical solutions
 
-* I helped in the research and writing of procurements and grants for multiple client companies. I found them from US Government websites, mapped out their requirements and helped build their ORBITALTM (a proprietary business process flow).
-* Specifically, I helped in drafting objectives that's aligned to the requirements of the procurement, helped in mapping out resources and budgets through market research and analysis and then create documentations and have them approved, helped in keeping track that the indicators are aligned with United Nations SDG Goals, NSF, and ARC, researched on the NAICS codes for the right transport, and helped create the activities, monitoring, evaluating, and logistics plan with the Point of Contact and other team members. I worked with a team of 6 engineers and data scientists that comprised of local and international members of different cultures and in different time zones.
-* I also learned multiple business process flows and how they are created using Power BI.
+* Accomplishments
+
+After, getting my Focus Pass, I had the opportunity to be in multiple-business oriented study groups, seasoned managers, and literacy programs. I have learned and applied Agile methods inside these groups and meetings and use CALMS Framework when I helped develop an AI products such as Aini<sup>TM</sup>, an HR app. 
+
+I helped find opportunities for multiple startup companies by researching relevant NAICS codes and draft procurements. I help understand requirements, by writing out OKRs and KPIs and build their ORBITAL<sup>TM</sup> (a proprietary business process flow) for example, and then translate them into technical solutions like map out what kind of apps can be created that matches the requirements of these procurements while considering the expertise of the company.
+
+* Successful Projects
+
+Through Think Dojo, where I collaborate and communicate using Microsoft 365 tools with other engineers and scientists cross different culture and time zones, I was able to successfully help a startup business by mapping out their NAICS Codes, finish their business plan, and created their Multiple Award Schedule (MAS).
+
+Inside Dev Dojo, I did training with Curiosity Coaches on GitHub Learning Lab and on how to make Git contributions. In IGUANA Hive, I learned how to use Advanced Notebook Applications. From my training, I've successfully edited a few startup company websites that are our clients and created multiple issues and markdown-file research notes inside GitHub.
+
+* Overall Contribution
+
+
 
 ---
 
