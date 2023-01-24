@@ -1,6 +1,6 @@
 # Single Paragraph Answer 1
 
-As an intern in this company, I have been actively engaged in various projects and initiatives that have allowed me to develop my skills as an applied scientist. 
+As an intern in the company, I have been actively engaged in various projects and initiatives that have allowed me to develop my skills as an applied scientist. 
 
 One of my key contributions has been in the research and help in writing of procurement and grant documents for multiple client companies. I was able to identify potential opportunities through US government websites, and then worked closely with my team to map out the requirements and develop a proprietary business process flow (ORBITAL<sup>TM</sup>) that met those requirements. This included drafting objectives that aligned with the procurement requirements, mapping out resources and budgets through market research and analysis, and creating documentation that was approved by our clients. Additionally, I helped ensure that our indicators were aligned with United Nations SDG Goals, NSF, and ARC, and researched on the NAICS codes for the right transport and logistics plan. I closely collaborated with the Senior Director during the first creation of ORBIT<sup>TM</sup> business process flow which now is called, ORBITAL<sup>TM</sup>.
 
