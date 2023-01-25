@@ -91,7 +91,7 @@ Applying Scientific Methods, from my observation I helped in finding out pain po
 
 ### Investigate adversarial trends, identify behavior patterns, and respond with Agile logic changes
 
-Inside Dev Dojo, I learned how to investigate adversarial trends of BPFs using Power BI, a Microsoft 365 Tool, to identify weaknesses in an AI model inside the Microsoft 365 Environment. It uses multiple logic systems that needs modified so that when a customer interacts with an AI that is connected to a BPF, it can identify behavior patterns and respond with the appropriate logic. 
+Before choosing the right management tools, I did comparative analysis between Azure DevOps (Microsoft), MS Project, MS Planner, Projects on Github, Zenhub on GitHub, and Jira board. My analysis at that time points to Jira board because it was trending, UX/UI friendly and is used by many businesses. However, it needs onboarding into our company and use the company email for more access. If there is a lot of open-source projects where we invite external contributors then we will go for GitHub. At the moment, I am a code maintainer for various transports of the company to check Git commits, issues, and pull requests.
 
 ---
 
