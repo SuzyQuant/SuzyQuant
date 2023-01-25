@@ -77,13 +77,9 @@ I have been a key player in the expansion of this company to having multiple tra
 
 With the creation of these new transports (in the research, hospitality, and digital and on-site dry labs area) and combining existing transports through visio maps, I became a founder of the DREAM Quest and AST Program. It utilizes a tree system to visualize the growth and development of a person's professional and personal development.
 
-Construction Teams
+I also helped in the construction sciences leading the construction team to update Victorian houses and make them into Smart Homes. I've learned how to use Revit for architectural mapping and work alongside with team members discussing MEP issues, upgrades and updates inside GitHub Issues and Microsoft 365 Environment.
 
-GitHub Issues
-
-Through the strong habits I formed with my training with Curiosity Coaches in Tao Learning Institute in the 5Cs of 21st Century Learning which include Culture, Creativity, Critical Thinking, Communication, and Collaboration, I was able to contribute in the making of a Student Journey Quest to success called Dream Quest.
-
-Inside Think Dojo where most executives do their think-tank sessions, I helped mapped out the pain points of employees and help in the creation and implementation of robust decisioning solutions in multiple areas of the company. It includes optimizing multiple BPFs inside Microsoft 365 Environment, updating architectural maps by working together on single files, putting up GitHub Issues with proper OKRs and KPIs in their description, and creating milestones and roadmaps for startup clients using the CALMS Framework while incorporating Agile Logic or the creation of an AI product.
+I was a role-model during my internship because I make a lot of meeting notes to help communicate and collaborate with other team members with different shifts. I also actively participated during sessions where they are optimizing multiple BPFs inside Microsoft 365 Environment (Power BI).
 
 ---
 
