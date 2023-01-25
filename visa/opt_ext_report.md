@@ -32,7 +32,7 @@ To ensure the operational and business metric health, I have experienced monitor
 
 After, getting my Focus Pass, I had the opportunity to be in multiple-business oriented study groups, seasoned managers, and literacy programs. I have learned and applied Agile methods inside these groups and meetings and use CALMS Framework when I helped develop an AI products such as Aini<sup>TM</sup>, an HR app. 
 
-I helped find opportunities for multiple startup companies by researching relevant NAICS codes and draft procurements. I help understand requirements, by writing out OKRs and KPIs and build their ORBITAL<sup>TM</sup> (a proprietary business process flow) for example, and then translate them into technical solutions like map out what kind of apps can be created that matches the requirements of these procurements while considering the expertise of the company.
+I helped find opportunities for multiple startup companies by researching relevant NAICS codes and draft procurements. I help understand requirements, by writing out OKRs and KPIs and build their ORBITAL<sup>TM</sup> (a proprietary business process flow, BPF) for example, and then translate them into technical solutions like map out what kind of apps can be created that matches the requirements of these procurements while considering the expertise of the company.
 
 * Successful Projects
 
@@ -41,7 +41,7 @@ Through Think Dojo, where I collaborate and communicate using Microsoft 365 tool
 Inside Dev Dojo, I did training with Curiosity Coaches on GitHub Learning Lab and on how to make Git contributions. In IGUANA Hive, I learned how to use Advanced Notebook Applications. From my training, I've successfully edited a few startup company websites that are our clients and created multiple issues and markdown-file research notes inside GitHub.
 
 * Overall Contribution
-
+After learning Agile methods, Microsoft 365 Tools, 5Cs of Education and CALMS Framework, I've had the opportunity to teach methods these inside Tao Learning Institute to newly hired employees during my internship period.
 
 ---
 
@@ -59,25 +59,25 @@ Through communication and collaboration using Microsoft 365 tools, I, along with
 
 Through the strong habits I formed in the 5Cs of 21st Century Learning which include Culture, Creativity, Critical Thinking, Communication, and Collaboration, I was able to contribute in the making of a Student Journey Quest to success called Dream Quest.
 
-Inside Think Dojo where most executives do their think-tank sessions, I helped mapped out the pain points of employees and help in the creation and implementation of robust decisioning solutions in multiple areas of the company. It includes optimizing multiple business process flows inside Microsoft 365 Environment, updating architectural maps by working together on single files, putting up GitHub Issues with proper OKRs and KPIs in their description, and creating milestones and roadmaps for startup clients using the CALMS Framework while incorporating Agile Logic.
+Inside Think Dojo where most executives do their think-tank sessions, I helped mapped out the pain points of employees and help in the creation and implementation of robust decisioning solutions in multiple areas of the company. It includes optimizing multiple BPFs inside Microsoft 365 Environment, updating architectural maps by working together on single files, putting up GitHub Issues with proper OKRs and KPIs in their description, and creating milestones and roadmaps for startup clients using the CALMS Framework while incorporating Agile Logic.
 
 ---
 
 ### Ensure operational and business metric health by monitoring decision points
 
-* I helped in mapping out pain points from employee's work efficiency which helps in the development of a W4tcher App<sup>TM</sup>. These pain points may include punctuality, attendance, internet speed, and efficiency at work. It helps ensure optimum operation of the business because it captures the screen of the employee at random times. This is also how my employer oversees my screen activities, among other employees, while at work which affects my SMILE SCORE<sup>TM</sup>. This SMILE Score, powered by Tao Learning Institute, shows my performance metric aside from the professional development sessions by the Curiosity Coaches.
+I helped in mapping out pain points from employee's work efficiency which helps in the development of a W4tcher App<sup>TM</sup>. These pain points may include punctuality, attendance, internet speed, and efficiency at work. It helps ensure optimum operation of the business because it captures the screen of the employee at random times. This is also how my employer oversees my screen activities, among other employees, while at work which affects my SMILE SCORE<sup>TM</sup>. This SMILE Score, powered by Tao Learning Institute, shows my performance metric aside from the professional development sessions by the Curiosity Coaches.
 
 
 ---
 
 ### Investigate adversarial trends, identify behavior patterns, and respond with Agile logic changes
 
-* I
+Inside Dev Dojo, I learned how to investigate adversarial trends of BPFs to identify weaknesses in the model inside the Microsoft 365 Environment. It uses multiple logic systems that needs modified so that when a customer interacts with an AI that is connected to a BPF, it can identify behavior patterns and respond with the appropriate logic. 
 
 ---
 
 ### Research on new technologies and methods across data science, data engineering, and data visualization to improve the technical capabilities of the team. Her activities train her to attain a higher level of theoretical, analytical and practical understanding of her Physics degree.&nbsp;
 
-* I helped in doing market and industry research and documentation in multiple areas of the business to help them reach conclusions that are based on the current trends. I did Python, DAX, SQL, and C# programming in doing analytical calculations in finding trends and in helping build a few AI products. I used Outsystems, Visio Maps, AWS Quick Sight, Flourish Studio, and Office 365 among others for data visualization.
+I contributed in successfully migrating data visualizations from a legacy software to AWS QuickSight. Through proper communication and collaboration of engineers and data scientists across different culture, we found out that some of the visuals need not use custom algorithms but, through research on this new technology, to learn how to configure the built-in systems to create a matching data visualization from the legacy software instead.
 
 ---
