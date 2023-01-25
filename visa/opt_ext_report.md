@@ -34,7 +34,7 @@ Overall, my internship was a valuable learning experience that allowed me to app
 
 * Accomplishments
 
-After, getting my Focus Pass, I had the opportunity to be in multiple-business oriented study groups, seasoned managers, and literacy programs. I have learned and applied Agile methods, taught by Curiosity Coaches during onboarding, inside these groups and meetings.
+After, getting my Focus Pass, I had the opportunity to be in multiple-business oriented study groups, seasoned managers, and literacy programs. I have learned and applied Agile methods, taught by Curiosity Coaches during onboarding, inside these groups and meetings. I've also learned and applied the 5Cs of 21st Century learning which includes cultural immersion by working with teams from other countries, creativity in developing data visualization and technical documentations, critical thinking in finding problems within the system and experiment with current methods or tools for solutions and constant communication, and collaboration with team members inside Microsoft 365 Environment to be in the same page in a project.
 
 With my knowledge  in physics, I am a key player in getting ORBIT created with a Director in a piece of paper. It includes mapping out the objectives, resources, budget, indicators, and transport necessary to help a startup business get funded through procurements. Now it has evolved into ORBITAL<sup>TM</sup> with activities and logistics included. The concept of ORBITAL<sup>TM</sup> using the laws of physics aim to help startup businesses get launched and get them into orbit in a space of multitudinal companies. 
 
@@ -64,9 +64,6 @@ After learning Agile methods, Microsoft 365 Tools, 5Cs of Education and CALMS Fr
 After helping the company build and brand the ORBITAL<sup>TM</sup>. I went back to the Think Dojo and discussed with other managers and teams how we can be more Agile. I observed that there was a hard time figuring out what these employees were working and what tasks and priorities are set by the managers. Then I go back to the ORBITAL concept. 
 
 A project needs to have its own orbit and so executives introduced roadmapping. Roadmaps sets the timeline and has multiple milestones. I was a key player in the implementation of STAR (Space, Track, Assist, Reach) and Super Nova concept to reach milestones. Super Nova is a STAR but is a massive project, has longer timelines and has bigger impact while STARs are every day tasks and issues that needs assitance until it reach a Super Nova event.
-
-
-By applying the 5Cs of 21st Century Learning, it helped me contribute to the initial creation of the ORBITAL<sup>TM</sup> business process flow which initially was called ORBIT<sup>TM</sup> using a piece of paper and my physics background. 
 
 Through Ignite Curiosity training, it helped me build habits of passion and curiosity which helped me understand the interconnectedness of companies, of different departments of a company, and how the physical laws of the universe may apply. For example, applying the concept of how small stars can get sucked by massive stars, the small companies can get acquired by big companies or that these small stars grow on their own like small companies do. Or applying the concept of momentum to understand adversarial trends of other companies or technologies to be able to apply it to startups.
 
