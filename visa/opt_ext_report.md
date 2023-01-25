@@ -77,7 +77,7 @@ I helped in mapping out pain points from employee's work efficiency which helps 
 
 ### Investigate adversarial trends, identify behavior patterns, and respond with Agile logic changes
 
-Inside Dev Dojo, I learned how to investigate adversarial trends of BPFs to identify weaknesses in an AI model inside the Microsoft 365 Environment. It uses multiple logic systems that needs modified so that when a customer interacts with an AI that is connected to a BPF, it can identify behavior patterns and respond with the appropriate logic. 
+Inside Dev Dojo, I learned how to investigate adversarial trends of BPFs using Power BI, a Microsoft 365 Tool, to identify weaknesses in an AI model inside the Microsoft 365 Environment. It uses multiple logic systems that needs modified so that when a customer interacts with an AI that is connected to a BPF, it can identify behavior patterns and respond with the appropriate logic. 
 
 ---
 
