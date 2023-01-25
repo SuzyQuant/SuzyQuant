@@ -34,9 +34,14 @@ Overall, my internship was a valuable learning experience that allowed me to app
 
 * Accomplishments
 
-After, getting my Focus Pass, I had the opportunity to be in multiple-business oriented study groups, seasoned managers, and literacy programs. I have learned and applied Agile methods, taught by Curiosity Coaches during onboarding, inside these groups and meetings and use CALMS Framework when I helped develop an AI products such as Aini<sup>TM</sup>, an HR app. 
+After, getting my Focus Pass, I had the opportunity to be in multiple-business oriented study groups, seasoned managers, and literacy programs. I have learned and applied Agile methods, taught by Curiosity Coaches during onboarding, inside these groups and meetings.
 
-I helped find opportunities for multiple startup companies by researching relevant NAICS codes and draft procurements. I help understand requirements, by writing out OKRs and KPIs and build their ORBITAL<sup>TM</sup> (a proprietary business process flow, BPF) for example, and then translate them into technical solutions like map out what kind of apps can be created that matches the requirements of these procurements while considering the expertise of the company.
+I am a key player in finding opportunities for multiple startup companies. I first analyze using the constellation concept of the stars where there are big and small stars and when viewed from earth grounds are interconnected.
+
+
+
+
+ by researching relevant NAICS codes and draft procurements. I help understand requirements, by writing out OKRs and KPIs and build their ORBITAL<sup>TM</sup> (a proprietary business process flow, BPF) for example, and then translate them into technical solutions like map out what kind of apps can be created that matches the requirements of these procurements while considering the expertise of the company.
 
 * Successful Projects
 
@@ -86,3 +91,10 @@ Inside Dev Dojo, I learned how to investigate adversarial trends of BPFs using P
 I contributed in successfully migrating data visualizations from a legacy software to AWS QuickSight. Through proper communication and collaboration of engineers and data scientists across different culture and different timezones, we found out that some of the visuals need not use custom algorithms but, through heavy research on this new technology, to learn how to configure the built-in systems to create a matching data visualization of the legacy software instead.
 
 ---
+
+key player in getting that ORBIT created
+galaxy formation, constellation
+role model
+instrumental in building it whether it's assigned it or not
+to observe the business process, then I decided to bring physics in the system and designed the ORBIT
+It's my own career so I don't hold back just because I'm called an OPT
