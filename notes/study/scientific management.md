@@ -36,6 +36,7 @@
 There are four principles of Taylorism.
 
 1. <b>Choose methods based on science:</b> Use the scientific method to determine the most efficient way to complete a task. Focus on increasing productivity and profits.
+<img width="406" alt="image" src="https://user-images.githubusercontent.com/61100293/214598502-51d79610-7b5e-4be1-a592-92311e0e4b32.png">
 
 2. <b>Assign workers to tasks based on their natural skillset:</b> Get to know your workers, discover what they’re good at, and place them where their skills will be the most useful.
 3. <b>Monitor your workers’ performance:</b> Observe what your workers are doing while they are on the clock so that you can quickly address any problems. If some workers are confused or unproductive, it is up to their managers to step in and fix the issue.
