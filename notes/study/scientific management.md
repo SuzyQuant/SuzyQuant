@@ -1,4 +1,4 @@
-Scientific Management
+# Scientific Management
 
 * Improves efficiency in the workforce
 * Three steps:
@@ -13,7 +13,7 @@ Scientific Management
   * Analysis
 * It is an evidence-based method that prioritizes efficiency and reliability.
 
-History of Scientific Management Theory (Taylor)
+# History of Scientific Management Theory (Taylorism)
 * Three steps:
   * Observation
     * What's the problem(s)? Example,
@@ -23,5 +23,20 @@ History of Scientific Management Theory (Taylor)
         * No best standard for workers to aspire to
         * No business process or work flow to follow
         * Managers don't know what workers are working, couldn't give feedback then
+
   * Experimentation
+    * Designed specialized tools
+    * Advocated for workers to match projects with their strengths
+    * Trained managers to implement scientific management in their own workplace
+
   * Analysis
+    * Productivity was tripled after the experimentation
+
+# The Principles of Scientific Management
+There are four principles of Taylorism.
+
+1. <b>Choose methods based on science:</b> Use the scientific method to determine the most efficient way to complete a task. Focus on increasing productivity and profits.
+
+2. <b>Assign workers to tasks based on their natural skillset:</b> Get to know your workers, discover what they’re good at, and place them where their skills will be the most useful.
+3. <b>Monitor your workers’ performance:</b> Observe what your workers are doing while they are on the clock so that you can quickly address any problems. If some workers are confused or unproductive, it is up to their managers to step in and fix the issue.
+4. <b>Divide workloads appropriately between workers and managers:</b> Make sure that managers understand how to plan and train workers and that workers understand how to implement those plans.
