@@ -75,7 +75,7 @@ I have worked alongside other 6 engineers and scientists, and was a key player i
 
 I have been a key player in the expansion of this company to having multiple transports that cover different areas of the company. Some of these transports can now hold its own procurement and grant projects. I was also a key player in the acquisition of laptops from Salesforce for the STEM literacy program of the company's affiliated nonprofit.
 
-With the creation of these new transports (in the research, hospitality, and digital and on-site dry labs area) and combining existing transports through visio maps, I became a founder of the DREAM Quest and AST Program. It utilizes a tree system to visualize the growth and development of a person's
+With the creation of these new transports (in the research, hospitality, and digital and on-site dry labs area) and combining existing transports through visio maps, I became a founder of the DREAM Quest and AST Program. It utilizes a tree system to visualize the growth and development of a person's professional and personal development.
 
 Construction Teams
 
