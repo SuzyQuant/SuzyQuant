@@ -36,22 +36,22 @@ Overall, my internship was a valuable learning experience that allowed me to app
 
 After, getting my Focus Pass, I had the opportunity to be in multiple-business oriented study groups, seasoned managers, and literacy programs. I have learned and applied Agile methods, taught by Curiosity Coaches during onboarding, inside these groups and meetings.
 
-With my knowledge  in physics, I am a key player in getting ORBIT created with a Director in a piece of paper. It includes mapping out the objectives, resources, budget, indicators, and transport necessary to help a startup business get funded through procurements. Now it has evolved into ORBITAL<sup>TM</sup> with activities and logistics included. The concept of ORBITAL<sup>TM</sup> using the laws of physics aims to help startup businesses get launched and get them into orbit in a space of multitudinal companies. 
+With my knowledge  in physics, I am a key player in getting ORBIT created with a Director in a piece of paper. It includes mapping out the objectives, resources, budget, indicators, and transport necessary to help a startup business get funded through procurements. Now it has evolved into ORBITAL<sup>TM</sup> with activities and logistics included. The concept of ORBITAL<sup>TM</sup> using the laws of physics aim to help startup businesses get launched and get them into orbit in a space of multitudinal companies. 
 
-By applying the concept of Atomic Design, I was instrumental in creating the checklist during their launching and their orbiting. During their launch period they are fueled with atoms of different elements and molecules. These atomic elements and molecules could be in the form of their NAICS code, OKRs and KPIs, licenses, bank accounts, policies and implementation processes, activities, and logistics.
+Also, by applying the concept of Atomic Design in physics, I was instrumental in creating the checklist for their launching and their orbiting. During their launch period they are fueled with atoms of different elements and molecules. These atomic elements and molecules could be in the form of their NAICS code, OKRs and KPIs, licenses, bank accounts, SWOT Analysis, Market Analysis, policies, activities, and logistics. And these elements when combined creates molecules (technical documentations) or even complex substances or mixtures (like a business plan or business process flows, BPFs).
 
-finding opportunities for multiple startup companies. I first analyze using the constellation concept of the stars where there are big and small stars and when viewed from earth grounds are interconnected.
+In the creation of these complex substances, I also use the constellation of stars concept. There are multiple big and small businesses out there from different industries. I figure out what kind of a star is this startup client we have according to its NAICS code and what kind of fuel it already has (bootstrapping). I communicate and collaborate with clients to understand if they want to become a massive star and turns into a blackhole where it grows and then will acquire other smaller businesses or will its goal be just a low mass star that continually orbits in the galaxy.
 
-
-
-
- by researching relevant NAICS codes and draft procurements. I help understand requirements, by writing out OKRs and KPIs and build their ORBITAL<sup>TM</sup> (a proprietary business process flow, BPF) for example, and then translate them into technical solutions like map out what kind of apps can be created that matches the requirements of these procurements while considering the expertise of the company.
 
 * Successful Projects
 
-Through Think Dojo, where I collaborate and communicate using Microsoft 365 tools with other engineers and scientists cross different culture and time zones, I was able to successfully help a startup business by mapping out their NAICS Codes, finish their business plan, and created their Multiple Award Schedule (MAS).
+I have worked directly with a startup client and I noticed they didn't have the business plan, the right NAICS code, did not adopt agile methods between employees, managers, and owners, doesn't do research and documentations and has no programming standards when doing Git Commits like proper commenting and how often to do commits. 
 
-Inside Dev Dojo, I did training with Curiosity Coaches on GitHub Learning Lab and on how to make Git contributions. In IGUANA Hive, I learned how to use Advanced Notebook Applications and how to do Git contributions to open source projects. From my training, I've successfully edited a few startup company websites that are our clients and created multiple issues and markdown-file research notes inside GitHub.
+I combined my training from the Curiosity Coaches of Think Dojo, IGUANA Hive, and Dev Dojo where I collaborate and communicate using Microsoft 365 tools with other engineers and scientists cross different culture and time zones and my understanding of physics that led to this company getting numerous projects and is now earning almost a million USD per year. 
+
+I was a key player in successfuly building their business plan, was a role model employee to the scientists and engineers when approaching the programming tasks by using management tools, and how to do proper technical research and documentations and be Agile. In addition, I was able to successfully map out their NAICS Codes, finish their business plan, and created their Multiple Award Schedule (MAS).
+
+From my trainings with Tao Learning Institute and the use of Atomic Design I've successfully edited a few startup company websites from our clients and created multiple issues and markdown-file research notes inside GitHub.
 
 * Overall Contribution
 
