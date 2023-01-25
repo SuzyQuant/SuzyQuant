@@ -41,6 +41,7 @@ Through Think Dojo, where I collaborate and communicate using Microsoft 365 tool
 Inside Dev Dojo, I did training with Curiosity Coaches on GitHub Learning Lab and on how to make Git contributions. In IGUANA Hive, I learned how to use Advanced Notebook Applications. From my training, I've successfully edited a few startup company websites that are our clients and created multiple issues and markdown-file research notes inside GitHub.
 
 * Overall Contribution
+
 After learning Agile methods, Microsoft 365 Tools, 5Cs of Education and CALMS Framework, I've had the opportunity to teach methods these inside Tao Learning Institute to newly hired employees during my internship period.
 
 ---
