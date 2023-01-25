@@ -36,6 +36,8 @@ Overall, my internship was a valuable learning experience that allowed me to app
 
 After, getting my Focus Pass, I had the opportunity to be in multiple-business oriented study groups, seasoned managers, and literacy programs. I have learned and applied Agile methods, taught by Curiosity Coaches during onboarding, inside these groups and meetings. I've also learned and applied the 5Cs of 21st Century learning which includes cultural immersion by working with teams from other countries, creativity in developing data visualization and technical documentations, critical thinking in finding problems within the system and experiment with current methods or tools for solutions and constant communication, and collaboration with team members inside Microsoft 365 Environment to be in the same page in a project.
 
+Through Ignite Curiosity training, it helped me build habits of passion and curiosity which helped me understand the interconnectedness of companies, of different departments of a company, and how the physical laws of the universe may apply. 
+
 With my knowledge  in physics, I am a key player in getting ORBIT created with a Director in a piece of paper. It includes mapping out the objectives, resources, budget, indicators, and transport necessary to help a startup business get funded through procurements. Now it has evolved into ORBITAL<sup>TM</sup> with activities and logistics included. The concept of ORBITAL<sup>TM</sup> using the laws of physics aim to help startup businesses get launched and get them into orbit in a space of multitudinal companies. 
 
 Also, by applying the concept of Atomic Design in physics, I was instrumental in creating the checklist for their launching and their orbiting. During their launch period they are fueled with atoms of different elements and molecules. These atomic elements and molecules could be in the form of their NAICS code, OKRs and KPIs, licenses, bank account, SWOT Analysis, Market Analysis, policies, activities, and logistics. And these elements when combined creates molecules (technical documentations) or even complex substances or mixtures (like a business plan or business process flows, BPFs).
@@ -65,13 +67,19 @@ After helping the company build and brand the ORBITAL<sup>TM</sup>. I went back 
 
 A project needs to have its own orbit and so executives introduced roadmapping. Roadmaps sets the timeline and has multiple milestones. I was a key player in the implementation of STAR (Space, Track, Assist, Reach) and Super Nova concept to reach milestones. Super Nova is a STAR but is a massive project, has longer timelines and has bigger impact while STARs are every day tasks and issues that needs assitance until it reach a Super Nova event.
 
-Through Ignite Curiosity training, it helped me build habits of passion and curiosity which helped me understand the interconnectedness of companies, of different departments of a company, and how the physical laws of the universe may apply. For example, applying the concept of how small stars can get sucked by massive stars, the small companies can get acquired by big companies or that these small stars grow on their own like small companies do. Or applying the concept of momentum to understand adversarial trends of other companies or technologies to be able to apply it to startups.
-
-Through communication and collaboration using Microsoft 365 tools, I, along with other 6 other engineers and scientists, was able to successfuly migrate visualization charts from a legacy software to AWS QuickSight by developing custom algorithms.
+I have worked alongside other 6 engineers and scientists, and was a key player in successfuly migrating visualization charts from a legacy software to AWS QuickSight by developing custom algorithms. By being curious and experimenting on tried-and-true techniques aside from testing out custom algorithms with proper research and documentations, I found out that some of the visuals need not use custom algorithms but to learn how to configure the built-in systems of AWS QuickSight to create a matching data visualization from the legacy software. 
 
 ---
 
 ### Collaborate with data engineers and platform architects to implement robust decisioning solutions
+
+I have been a key player in the expansion of this company to having multiple transports that cover different areas of the company. Some of these transports can now hold its own procurement and grant projects. I was also a key player in the acquisition of laptops from Salesforce for the STEM literacy program of the company's affiliated nonprofit.
+
+With the creation of these new transports (in the research, hospitality, and digital and on-site dry labs area) and combining existing transports through visio maps, I became a founder of the DREAM Quest and AST Program. It utilizes a tree system to visualize the growth and development of a person's
+
+Construction Teams
+
+GitHub Issues
 
 Through the strong habits I formed with my training with Curiosity Coaches in Tao Learning Institute in the 5Cs of 21st Century Learning which include Culture, Creativity, Critical Thinking, Communication, and Collaboration, I was able to contribute in the making of a Student Journey Quest to success called Dream Quest.
 
