@@ -64,13 +64,13 @@ Through communication and collaboration using Microsoft 365 tools, I, along with
 
 Through the strong habits I formed with my training with Curiosity Coaches in Tao Learning Institute in the 5Cs of 21st Century Learning which include Culture, Creativity, Critical Thinking, Communication, and Collaboration, I was able to contribute in the making of a Student Journey Quest to success called Dream Quest.
 
-Inside Think Dojo where most executives do their think-tank sessions, I helped mapped out the pain points of employees and help in the creation and implementation of robust decisioning solutions in multiple areas of the company. It includes optimizing multiple BPFs inside Microsoft 365 Environment, updating architectural maps by working together on single files, putting up GitHub Issues with proper OKRs and KPIs in their description, and creating milestones and roadmaps for startup clients using the CALMS Framework while incorporating Agile Logic.
+Inside Think Dojo where most executives do their think-tank sessions, I helped mapped out the pain points of employees and help in the creation and implementation of robust decisioning solutions in multiple areas of the company. It includes optimizing multiple BPFs inside Microsoft 365 Environment, updating architectural maps by working together on single files, putting up GitHub Issues with proper OKRs and KPIs in their description, and creating milestones and roadmaps for startup clients using the CALMS Framework while incorporating Agile Logic or the creation of an AI product.
 
 ---
 
 ### Ensure operational and business metric health by monitoring decision points
 
-I helped in mapping out pain points from employee's work efficiency which helps in the development of a W4tcher App<sup>TM</sup>. These pain points may include punctuality, attendance, internet speed, and efficiency at work. It helps ensure optimum operation of the business because it captures the screen of the employee at random times. This is also how my employer oversees my screen activities, among other employees, while at work which affects my SMILE SCORE<sup>TM</sup>. This SMILE Score, created by Tao Learning Institute, shows my performance metric aside from the professional development sessions by the Curiosity Coaches.
+I helped in mapping out pain points from employee's work efficiency which helps in the development of a W4tcher App<sup>TM</sup>. These pain points may include punctuality, attendance, internet speed, and efficiency at work. It helps ensure optimum operation of the business because it captures the screen of the employee at random times. This is also how my employer oversees my screen activities, among other employees, while at work which affects my SMILE SCORE<sup>TM</sup>. This SMILE Score, created by Tao Learning Institute, shows my performance metric aside from the professional development sessions led by the Curiosity Coaches.
 
 
 ---
