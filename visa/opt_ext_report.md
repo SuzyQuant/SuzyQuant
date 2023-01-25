@@ -58,7 +58,7 @@ Through communication and collaboration using Microsoft 365 tools, I, along with
 
 ### Collaborate with data engineers and platform architects to implement robust decisioning solutions
 
-Through the strong habits I formed with my training in Tao Learning Institute in the 5Cs of 21st Century Learning which include Culture, Creativity, Critical Thinking, Communication, and Collaboration, I was able to contribute in the making of a Student Journey Quest to success called Dream Quest.
+Through the strong habits I formed with my training with Curiosity Coaches in Tao Learning Institute in the 5Cs of 21st Century Learning which include Culture, Creativity, Critical Thinking, Communication, and Collaboration, I was able to contribute in the making of a Student Journey Quest to success called Dream Quest.
 
 Inside Think Dojo where most executives do their think-tank sessions, I helped mapped out the pain points of employees and help in the creation and implementation of robust decisioning solutions in multiple areas of the company. It includes optimizing multiple BPFs inside Microsoft 365 Environment, updating architectural maps by working together on single files, putting up GitHub Issues with proper OKRs and KPIs in their description, and creating milestones and roadmaps for startup clients using the CALMS Framework while incorporating Agile Logic.
 
@@ -73,7 +73,7 @@ I helped in mapping out pain points from employee's work efficiency which helps 
 
 ### Investigate adversarial trends, identify behavior patterns, and respond with Agile logic changes
 
-Inside Dev Dojo, I learned how to investigate adversarial trends of BPFs to identify weaknesses in the model inside the Microsoft 365 Environment. It uses multiple logic systems that needs modified so that when a customer interacts with an AI that is connected to a BPF, it can identify behavior patterns and respond with the appropriate logic. 
+Inside Dev Dojo, I learned how to investigate adversarial trends of BPFs to identify weaknesses in an AI model inside the Microsoft 365 Environment. It uses multiple logic systems that needs modified so that when a customer interacts with an AI that is connected to a BPF, it can identify behavior patterns and respond with the appropriate logic. 
 
 ---
 
