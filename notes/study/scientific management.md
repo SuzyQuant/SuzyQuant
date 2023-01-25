@@ -46,4 +46,6 @@ There are four principles of Taylorism.
 
 2. <b>Assign workers to tasks based on their natural skillset:</b> Get to know your workers, discover what they’re good at, and place them where their skills will be the most useful.
 3. <b>Monitor your workers’ performance:</b> Observe what your workers are doing while they are on the clock so that you can quickly address any problems. If some workers are confused or unproductive, it is up to their managers to step in and fix the issue.
+<img width="592" alt="image" src="https://user-images.githubusercontent.com/61100293/214600249-caa5e53a-8b37-4757-b230-a5b101c434ed.png">
+
 4. <b>Divide workloads appropriately between workers and managers:</b> Make sure that managers understand how to plan and train workers and that workers understand how to implement those plans.
