@@ -38,7 +38,7 @@ After, getting my Focus Pass, I had the opportunity to be in multiple-business o
 
 With my knowledge  in physics, I am a key player in getting ORBIT created with a Director in a piece of paper. It includes mapping out the objectives, resources, budget, indicators, and transport necessary to help a startup business get funded through procurements. Now it has evolved into ORBITAL<sup>TM</sup> with activities and logistics included. The concept of ORBITAL<sup>TM</sup> using the laws of physics aim to help startup businesses get launched and get them into orbit in a space of multitudinal companies. 
 
-Also, by applying the concept of Atomic Design in physics, I was instrumental in creating the checklist for their launching and their orbiting. During their launch period they are fueled with atoms of different elements and molecules. These atomic elements and molecules could be in the form of their NAICS code, OKRs and KPIs, licenses, bank accounts, SWOT Analysis, Market Analysis, policies, activities, and logistics. And these elements when combined creates molecules (technical documentations) or even complex substances or mixtures (like a business plan or business process flows, BPFs).
+Also, by applying the concept of Atomic Design in physics, I was instrumental in creating the checklist for their launching and their orbiting. During their launch period they are fueled with atoms of different elements and molecules. These atomic elements and molecules could be in the form of their NAICS code, OKRs and KPIs, licenses, bank account, SWOT Analysis, Market Analysis, policies, activities, and logistics. And these elements when combined creates molecules (technical documentations) or even complex substances or mixtures (like a business plan or business process flows, BPFs).
 
 In the creation of these complex substances, I also use the constellation of stars concept. There are multiple big and small businesses out there from different industries. I figure out what kind of a star is this startup client we have according to its NAICS code and what kind of fuel it already has (bootstrapping). I communicate and collaborate with clients to understand if they want to become a massive star and turns into a blackhole where it grows and then will acquire other smaller businesses or will its goal be just a low mass star that continually orbits in the galaxy.
 
@@ -55,11 +55,16 @@ From my trainings with Tao Learning Institute and the use of Atomic Design I've 
 
 * Overall Contribution
 
-After learning Agile methods, Microsoft 365 Tools, 5Cs of Education and CALMS Framework, I've had the opportunity to teach these methods inside Tao Learning Institute to newly hired employees during my internship period.
+After learning Agile methods, Microsoft 365 Tools, 5Cs of Education and CALMS Framework, I've had the opportunity to teach these methods inside Tao Learning Institute to newly hired employees and was a role model during my internship period.
 
 ---
 
 ### Design scientific approaches, applying tried-and-true techniques or developing custom algorithms as needed by the business problem
+
+After helping the company build and brand the ORBITAL<sup>TM</sup>. I went back to the Think Dojo and discussed with other managers and teams how we can be more Agile. I observed that there was a hard time figuring out what these employees were working and what tasks and priorities are set by the managers. Then I go back to the ORBITAL concept. 
+
+A project needs to have its own orbit and so executives introduced roadmapping. Roadmaps sets the timeline and has multiple milestones. I was a key player in the implementation of STAR (Space, Track, Assist, Reach) and Super Nova concept to reach milestones. Super Nova is a STAR but is a massive project, has longer timelines and has bigger impact while STARs are every day tasks and issues that needs assitance until it reach a Super Nova event.
+
 
 By applying the 5Cs of 21st Century Learning, it helped me contribute to the initial creation of the ORBITAL<sup>TM</sup> business process flow which initially was called ORBIT<sup>TM</sup> using a piece of paper and my physics background. 
 
