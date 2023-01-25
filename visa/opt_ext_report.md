@@ -85,8 +85,7 @@ I was a role-model during my internship because I make a lot of meeting notes to
 
 ### Ensure operational and business metric health by monitoring decision points
 
-I helped in mapping out pain points from employee's work efficiency which helps in the development of a W4tcher App<sup>TM</sup>. These pain points may include punctuality, attendance, internet speed, and efficiency at work. It helps ensure optimum operation of the business because it captures the screen of the employee at random times. This is also how my employer oversees my screen activities, among other employees, while at work which affects my SMILE SCORE<sup>TM</sup>. This SMILE Score, created by Tao Learning Institute, shows my performance metric aside from the professional development sessions led by the Curiosity Coaches.
-
+Applying Scientific Methods, from my observation I helped in finding out pain points from employee's work efficiency which helps in the development and testing of the W4tcher App<sup>TM</sup>. These pain points may include punctuality, attendance, internet speed, lack of continuous training & development, and efficiency at work. It helps ensure optimum operation of the business because it captures the screen of the employee at random times. This is also how my employer oversees my screen activities, among other employees, while at work which affects my SMILE SCORE<sup>TM</sup>. This SMILE Score, created by Tao Learning Institute, shows my performance metric aside from the professional development sessions led by the Curiosity Coaches and my GitHub account.
 
 ---
 
