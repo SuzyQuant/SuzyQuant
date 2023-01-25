@@ -83,6 +83,6 @@ Inside Dev Dojo, I learned how to investigate adversarial trends of BPFs using P
 
 ### Research on new technologies and methods across data science, data engineering, and data visualization to improve the technical capabilities of the team. Her activities train her to attain a higher level of theoretical, analytical and practical understanding of her Physics degree.&nbsp;
 
-I contributed in successfully migrating data visualizations from a legacy software to AWS QuickSight. Through proper communication and collaboration of engineers and data scientists across different culture, we found out that some of the visuals need not use custom algorithms but, through research on this new technology, to learn how to configure the built-in systems to create a matching data visualization from the legacy software instead.
+I contributed in successfully migrating data visualizations from a legacy software to AWS QuickSight. Through proper communication and collaboration of engineers and data scientists across different culture and different timezones, we found out that some of the visuals need not use custom algorithms but, through heavy research on this new technology, to learn how to configure the built-in systems to create a matching data visualization of the legacy software instead.
 
 ---
