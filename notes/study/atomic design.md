@@ -6,6 +6,8 @@ What taxonomy was established?
 
 <img width="897" alt="image" src="https://user-images.githubusercontent.com/61100293/214607550-7f9a99c2-2c2e-411f-927b-4e38b1b3ad86.png">
 
+<img width="470" alt="image" src="https://user-images.githubusercontent.com/61100293/214608798-c2989120-9716-4c9c-845c-522768aafb51.png">
+
 But atomic design is not rigid dogma. Ultimately, whatever taxonomy you choose to work with should help you and your organization communicate more effectively in order to craft an amazing UI design system.
 
 Atomic design applies to all user interfaces, not just web-based ones.
