@@ -45,7 +45,8 @@ Own example questions that I can think of,
 
 Then ask these questions after,
 * Will this (or these) question(s) increase efficiency? 
-* Will it reduce the time to perform task? (More automated)
+* Will it reduce the time to perform task?
+* Did the new system or process help automate the task?
 * Will it increase profit margin?
 
 <img width="406" alt="image" src="https://user-images.githubusercontent.com/61100293/214598502-51d79610-7b5e-4be1-a592-92311e0e4b32.png">
@@ -61,3 +62,5 @@ Own examples that I can think of,
 * Roadmapping & Milestones Creation
 * Requirement Engineering from Managers
 * Issue Creation for workers
+
+Taylor’s brand of scientific management may not be a perfect fit for contemporary life. However, the scientific management theory could be a starting point for designing your own management style. 
