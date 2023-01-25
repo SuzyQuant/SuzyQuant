@@ -37,6 +37,7 @@ There are four principles of Taylorism.
 
 1. <b>Choose methods based on science:</b> Use the scientific method to determine the most efficient way to complete a task. Focus on increasing productivity and profits. 
 
+Own example questions that I can think of,
 * What would happen if I apply Agile or SDLC?
 * What would happen if I apply 6 Sigma or 5S Method?
 * What would happen if I apply Microsoft Tools, AWS or Atlassian?
@@ -49,3 +50,9 @@ There are four principles of Taylorism.
 <img width="592" alt="image" src="https://user-images.githubusercontent.com/61100293/214600249-caa5e53a-8b37-4757-b230-a5b101c434ed.png">
 
 4. <b>Divide workloads appropriately between workers and managers:</b> Make sure that managers understand how to plan and train workers and that workers understand how to implement those plans.
+
+Own examples that I can think of,
+* KanBan Boards (MS Project, Azure Boards, GitHub, Atlassian)
+* Roadmapping & Milestones Creation
+* Requirement Engineering from Managers
+* Issue Creation for workers
