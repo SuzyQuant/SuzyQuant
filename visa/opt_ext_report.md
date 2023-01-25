@@ -58,7 +58,7 @@ Through communication and collaboration using Microsoft 365 tools, I, along with
 
 ### Collaborate with data engineers and platform architects to implement robust decisioning solutions
 
-Through the strong habits I formed in the 5Cs of 21st Century Learning which include Culture, Creativity, Critical Thinking, Communication, and Collaboration, I was able to contribute in the making of a Student Journey Quest to success called Dream Quest.
+Through the strong habits I formed with my training in Tao Learning Institute in the 5Cs of 21st Century Learning which include Culture, Creativity, Critical Thinking, Communication, and Collaboration, I was able to contribute in the making of a Student Journey Quest to success called Dream Quest.
 
 Inside Think Dojo where most executives do their think-tank sessions, I helped mapped out the pain points of employees and help in the creation and implementation of robust decisioning solutions in multiple areas of the company. It includes optimizing multiple BPFs inside Microsoft 365 Environment, updating architectural maps by working together on single files, putting up GitHub Issues with proper OKRs and KPIs in their description, and creating milestones and roadmaps for startup clients using the CALMS Framework while incorporating Agile Logic.
 
