@@ -17,3 +17,11 @@ But atomic design is not rigid dogma. Ultimately, whatever taxonomy you choose t
 This chapter introduced the atomic design methodology and demonstrated how atoms, molecules, organisms, templates, and pages all work together to craft thoughtful, deliberate interface design systems. Atomic design allows us to see our UIs broken down to their atomic elements, and also allows us to simultaneously step through how those elements join together to form our final UIs. We learned about the tight bond between content and design, and how atomic design allows us to craft design systems that are tailored to the content that lives inside them. And finally we learned how the language of atomic design gives us a helpful shorthand for discussing modularity with our colleagues, and provides a much needed sense of hierarchy in our design systems.
 
 Atomic design is a helpful design and development methodology, but essentially it’s merely a mental model for constructing a UI.
+
+---
+Atomid Design of a UI
+Atoms
+Molecules
+Organisms
+Templates
+Pages
