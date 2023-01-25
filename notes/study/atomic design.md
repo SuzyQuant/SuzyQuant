@@ -19,9 +19,14 @@ This chapter introduced the atomic design methodology and demonstrated how atoms
 Atomic design is a helpful design and development methodology, but essentially it’s merely a mental model for constructing a UI.
 
 ---
-Atomid Design of a UI
+## Atomic Design of a UI
+
 Atoms
+
 Molecules
+
 Organisms
+
 Templates
+
 Pages
