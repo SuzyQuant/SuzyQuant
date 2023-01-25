@@ -1,4 +1,5 @@
 # Scientific Management
+https://www.villanovau.com/resources/leadership/scientific-management-theory-explained/
 
 * Improves efficiency in the workforce
 * Three steps:
@@ -41,7 +42,11 @@ Own example questions that I can think of,
 * What would happen if I apply Agile or SDLC?
 * What would happen if I apply 6 Sigma or 5S Method?
 * What would happen if I apply Microsoft Tools, AWS or Atlassian?
-* ???
+
+Then ask these questions after,
+* Will this (or these) question(s) increase efficiency? 
+* Will it reduce the time to perform task? (More automated)
+* Will it increase profit margin?
 
 <img width="406" alt="image" src="https://user-images.githubusercontent.com/61100293/214598502-51d79610-7b5e-4be1-a592-92311e0e4b32.png">
 
