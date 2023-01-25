@@ -36,7 +36,11 @@ Overall, my internship was a valuable learning experience that allowed me to app
 
 After, getting my Focus Pass, I had the opportunity to be in multiple-business oriented study groups, seasoned managers, and literacy programs. I have learned and applied Agile methods, taught by Curiosity Coaches during onboarding, inside these groups and meetings.
 
-I am a key player in finding opportunities for multiple startup companies. I first analyze using the constellation concept of the stars where there are big and small stars and when viewed from earth grounds are interconnected.
+With my knowledge  in physics, I am a key player in getting ORBIT created with a Director in a piece of paper. It includes mapping out the objectives, resources, budget, indicators, and transport necessary to help a startup business get funded through procurements. Now it has evolved into ORBITAL<sup>TM</sup> with activities and logistics included. The concept of ORBITAL<sup>TM</sup> using the laws of physics aims to help startup companies get launched and get them into orbit in space of multitudinal companies. 
+
+By applying the concept of Atomic Design, during their orbit we fuel them with atoms of different elements and molecules. These atomic elements could be in the form of their NAICS code, OKRs and KPIs, licenses, bank accounts, policies and implementation processes, activities, and logistics.
+
+finding opportunities for multiple startup companies. I first analyze using the constellation concept of the stars where there are big and small stars and when viewed from earth grounds are interconnected.
 
 
 
