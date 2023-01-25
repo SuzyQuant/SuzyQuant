@@ -54,7 +54,7 @@ After learning Agile methods, Microsoft 365 Tools, 5Cs of Education and CALMS Fr
 
 By applying the 5Cs of 21st Century Learning, it helped me contribute to the initial creation of the ORBITAL<sup>TM</sup> business process flow which initially was called ORBIT<sup>TM</sup> using a piece of paper and my physics background. 
 
-Through Ignite Curiosity training, it helped me build habits of passion and curiosity which helped me understand the interconnectedness of companies, of different departments of a company, and how the physical laws of the universe may apply. For example, applying the concept of how small stars can get sucked by massive stars, the small companies can get acquired by big companies. Or applying the concept of momentum to understand adversarial trends.
+Through Ignite Curiosity training, it helped me build habits of passion and curiosity which helped me understand the interconnectedness of companies, of different departments of a company, and how the physical laws of the universe may apply. For example, applying the concept of how small stars can get sucked by massive stars, the small companies can get acquired by big companies or that these small stars grow on their own like small companies do. Or applying the concept of momentum to understand adversarial trends of other companies or technologies to be able to apply it to startups.
 
 Through communication and collaboration using Microsoft 365 tools, I, along with other 6 other engineers and scientists, was able to successfuly migrate visualization charts from a legacy software to AWS QuickSight by developing custom algorithms.
 
