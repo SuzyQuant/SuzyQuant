@@ -58,7 +58,7 @@ The company did implement the learning and development of Atlassian tools to all
 
 However, for internal task management, to get a team-oriented project inside Jira, an employee needs to be onboarded into our company and use the company email for more access and I found out that it is taxing work to the IT Admin and not cost-efficient. Therefore, overtime we completely move all our task management and milestones on GitHub from Microsoft Planner and Azure DevOps. I am currently a code maintainer for various transports of this company to check Git commits, issues, and pull requests.
 
-To summarize, I have been a key player in connecting STEM with non-profits, with polymer companies, with business startups doing transformational consulting, and actively working with locals and officials in HubZone areas like the MOV Region.
+To summarize, I have been a key player in connecting STEM with non-profits, with polymer companies, with business startups doing transformational consulting, and actively working with locals and officials in HubZone areas like the MOV Region due to my internship as an applied physicist in this company.
 
 
 
