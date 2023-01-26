@@ -40,9 +40,9 @@ In my projects, I worked alongside other 6 engineers and scientists and was a ke
 
 I also have been a key player in the expansion of this company I'm working with to having multiple transports that cover different areas of the company. Some of these transports can now hold its own procurement and grant projects. I was also a key player in the acquisition of laptops from Salesforce for the STEM literacy program of the company's affiliated nonprofit.
 
-With the creation of these new transports (in the research, hospitality, and digital and on-site dry labs area) and combining existing transports through Visio maps, I became a founder of the DREAM Quest and AST Program. It utilizes a tree system to visualize the growth and development of a person's professional and personal development.
+With the creation of these new transports (in the research, hospitality, and digital and on-site dry labs area) and combining existing transports through Visio maps (a Microsoft 365 tool), I became a founder of the DREAM Quest and AST Program. It utilizes a tree system to visualize the growth and development of a person's professional and personal development.
 
-I also helped in the construction sciences leading the construction team to update Victorian houses and make them into Smart Homes. I've learned how to use Revit for architectural mapping and work alongside team members discussing MEP issues, upgrades and updates inside GitHub Issues and Microsoft 365 Environment.
+I also helped in the construction sciences leading the construction team to update Victorian houses and turn them into Smart Homes. I've learned how to use Revit for architectural mapping and work alongside team members discussing MEP issues, upgrades and updates inside GitHub Issues and Microsoft 365 Environment in addition to working with a few government and local contractors in the area.
 
 I was a role-model during my internship because I made a lot of meeting notes to help communicate and collaborate with other team members with different shifts. I also actively participated during sessions where they are optimizing multiple BPFs inside Microsoft 365 Environment (Power BI).
 
