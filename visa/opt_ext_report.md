@@ -52,11 +52,11 @@ With the creation of these new transports (in the research, hospitality, and dig
 
 With the DREAM QUEST AST Program, I have to conduct statistical analysis of existing pedagogical trends that would fit, create student journey maps, and think of how to make it an edutainment program. I must identify behavior patterns on how effective these approaches are and if there are combinations that have been used by some educational bodies. This is a work in progress, but milestones have been created with issues that have proper requirement engineering in them on GitHub. 
 
-Before choosing the right management tools, I did comparative analysis between Azure DevOps (Microsoft), MS Project, MS Planner, Projects on Github, Zenhub on GitHub, and Jira board. My analysis at that time points to Jira board because it was trending, UX/UI friendly and is used by many businesses. But if there are a lot of open-source projects where we invite external contributors then we will go for GitHub.
+Before choosing the right management tools, I did comparative analysis between Azure DevOps (Microsoft), MS Project, MS Planner, Projects on Github, Zenhub on GitHub, and Jira board. My analysis at that time points to Jira board because it was trending, UX/UI friendly, and is used by many startup businesses. But if there are a lot of open-source projects where we invite external contributors then we will go for GitHub.
 
 The company did implement the learning and development of Atlassian tools to all employees and when we got a project using Atlassian tools, which includes Jira board, then everyone was equipped to handle the project.
 
-However, for internal task management, to get a team-oriented project inside Jira, an employee needs to be onboarded into our company and use the company email for more access and it is a taxing work to the IT Admin. Therefore, overtime we are completely moving all our task management and milestones on GitHub from Microsoft Planner and Azure DevOps. I am currently a code maintainer for various transports of the company to check Git commits, issues, and pull requests.
+However, for internal task management, to get a team-oriented project inside Jira, an employee needs to be onboarded into our company and use the company email for more access and I found out that it is a taxing work to the IT Admin and not cost-efficient. Therefore, overtime we completely move all our task management and milestones on GitHub from Microsoft Planner and Azure DevOps. I am currently a code maintainer for various transports of this company to check Git commits, issues, and pull requests.
 
 
 ---
