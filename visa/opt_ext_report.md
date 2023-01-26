@@ -113,7 +113,7 @@ I have been a key player in the expansion of this company to having multiple tra
 
 With the creation of these new transports (in the research, hospitality, and digital and on-site dry labs area) and combining existing transports through visio maps, I became a founder of the DREAM Quest and AST Program. It utilizes a tree system to visualize the growth and development of a person's professional and personal development.
 
-I also helped in the construction sciences leading the construction team to update Victorian houses and make them into Smart Homes. I've learned how to use Revit for architectural mapping in my OPT before my STEM OPT Extension and this year I've managed and worked alongside with team members discussing MEP issues, upgrades and updates inside GitHub Issues and Microsoft 365 Environment.
+I also helped in the construction sciences leading the construction team to update Victorian houses in the MOV Region and convert them into Smart Homes. I've learned how to use Revit for architectural mapping in my OPT before my STEM OPT Extension and this year I've managed and worked alongside with team members discussing MEP issues, upgrades and updates inside GitHub Issues and Microsoft 365 Environment.
 
 I was a role-model during my internship because I make a lot of meeting notes to help communicate and collaborate with other team members with different shifts. I also actively participated during sessions where they are optimizing multiple BPFs inside Microsoft 365 Environment (Power BI).
 
