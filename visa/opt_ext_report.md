@@ -26,7 +26,7 @@ In one of my projects, I have worked directly with a startup client, and I notic
 
 I combined my training from the Curiosity Coaches of Think Dojo, IGUANA Hive, and Dev Dojo where I collaborate and communicate using Microsoft 365 tools with other engineers and scientists cross different culture and time zones and my understanding of physics that led to this startup client getting numerous projects and is now earning almost a million USD per year. 
 
-I was a key player in successfully building their business plan, was a role model employee to the scientists and engineers when approaching the programming tasks by using management tools, and how to do proper technical research and documentations and be Agile. In addition, I was able to successfully map out their NAICS Codes, finish their business plan, and create their Multiple Award Schedule (MAS).
+I was a key player in successfully building their business plan, was a role model employee to the scientists and engineers when approaching the programming tasks by using management tools, and how to do proper technical research and documentations, creativity, and be Agile. In addition, I was able to successfully map out their NAICS Codes, finish their business plan, and create their Multiple Award Schedule (MAS).
 
 From my training with Tao Learning Institute and the use of Atomic Design I've successfully edited a few startup company websites from our clients and created multiple issues and markdown-file research notes inside GitHub.
 
