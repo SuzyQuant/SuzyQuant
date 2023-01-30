@@ -64,7 +64,7 @@ To summarize, I have been a key player in connecting STEM with non-profits, with
 
 ---
 
-# Segregated Answer
+# Segregated Answer - Not Updated
 
 ### Engage with business teams to find opportunities, understand requirements, and translate those requirements into technical solutions
 
