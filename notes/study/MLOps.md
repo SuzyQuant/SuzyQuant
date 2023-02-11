@@ -45,6 +45,9 @@ stateDiagram-v2
 ```
 
 Where is the current project at?
+
 What are the requirements from the client?
+
 How much does each state cost?
+
 How long does it take to deliver?
