@@ -4,16 +4,47 @@
 
 ```mermaid
 stateDiagram-v2
-    [*] --> DATA
+
     DATA --> ML
-    ML --> [*]
+    ML --> DEV
+    DEV --> OPS
+    OPS --> DATA
+  
+
 
     DATA --> Production
     Production --> Identify
     Identify --> Collect
     Collect --> Process
-    Process --> Store
+    Process --> Store 
+    Store --> Requirements
     Store --> DATA 
-    Store --> ML 
-
+       
+    ML --> Requirements
+    Requirements --> Explore
+    Explore --> Extract
+    Extract --> Train
+    Train --> Optimize
+    Optimize --> Optimal_Model 
+    Optimize --> ML
+    
+    DEV --> Optimal_Model
+    Optimal_Model --> Plan 
+    Plan --> Develop
+    Develop --> Package
+    Package --> Test
+    Test --> Staging
+    Test --> DEV
+    
+    OPS --> Staging
+    Staging --> Release 
+    Release --> Configure
+    Configure --> Monitor
+    Monitor --> Validate
+    Validate --> OPS
 ```
+
+Where is the current project at?
+What are the requirements from the client?
+How much does each state cost?
+How long does it take to deliver?
