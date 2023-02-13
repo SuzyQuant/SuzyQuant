@@ -6,6 +6,7 @@
 * Define where it is
 * Obstacles
 * Scope and limitations
+* Use the mindmap in mermaid.js
 
 ## Track
 * Milestone
@@ -13,6 +14,7 @@
 * Roadmap
 * Can use mermaid.js for the roadmapping
 * Connects the past, present, and future state of the project
+* Use flowchart or gantt chart etch for the track in mermaid.js
 
 ## Assist
 * Personal
