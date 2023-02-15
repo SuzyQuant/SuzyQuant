@@ -242,7 +242,7 @@ Requires the petitioner to: **demonstrate that the national interest would be ad
          <tr>
             <td>Entry I-94</td>
             <td>(retrieve electronic copy from CBP website) https://i94.cbp.dhs.gov/I94/#/recent-search</td>
-            <td>:black_square_button:</td>
+            <td>:white_check_mark:</td>
         </tr>
         <tr>
             <td rowspan=2>Submission Documents</td>
