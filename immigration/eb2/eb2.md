@@ -32,52 +32,52 @@ prospective impact. </td>
         <tr>
             <td>Economic or social benefits of a project</td>
             <td>L3 Name C</td>
-            <td>:white_check_mark:</td>
+            <td>:black_square_button:</td>
         </tr>
         <tr>
             <td>Number of people or entities impacted by the project.</td>
             <td>L3 Name C</td>
-            <td>:white_check_mark:</td>
+            <td>:black_square_button:</td>
         </tr>
          <tr>
             <td>National or international awards won by the project.</td>
             <td>L3 Name C</td>
-            <td>:white_check_mark:</td>
+            <td>:black_square_button:</td>
         </tr>
                 <tr>
             <td>Historical or cultural significance of the project.</td>
             <td>L3 Name C</td>
-            <td>:white_check_mark:</td>
+            <td>:black_square_button:</td>
         </tr>
         <tr>
             <td>Achievements of the project, such as job creation or reduction in poverty.</td>
             <td>L3 Name C</td>
-            <td>:white_check_mark:</td>
+            <td>:black_square_button:</td>
         </tr>
          <tr>
             <td>Impact of the project on the environment or public health.</td>
             <td>L3 Name C</td>
-            <td>:white_check_mark:</td>
+            <td>:black_square_button:</td>
         </tr>
                 <tr>
             <td>Contributions of the project to scientific or technological advancement.</td>
             <td>L3 Name C</td>
-            <td>:white_check_mark:</td>
+            <td>:black_square_button:</td>
         </tr>
         <tr>
             <td>Potential of the project to inspire change or innovation.</td>
             <td>L3 Name C</td>
-            <td>:white_check_mark:</td>
+            <td>:black_square_button:</td>
         </tr>
          <tr>
             <td>Endorsements or testimonials from experts or other stakeholders.</td>
             <td>L3 Name C</td>
-            <td>:white_check_mark:</td>
+            <td>:black_square_button:</td>
         </tr>
         <tr>
             <td>Media coverage or public interest in the project.</td>
             <td>L3 Name C</td>
-            <td>:white_check_mark:</td>
+            <td>:black_square_button:</td>
         </tr>
         <tr>
       <td rowspan=11>Prong II: Advanced Degrees or Exceptional Ability</td>
@@ -86,52 +86,52 @@ prospective impact. </td>
         <tr>
             <td>Diplomas</td>
             <td>L3 Name C</td>
-            <td>:white_check_mark:</td>
+            <td>:black_square_button:</td>
         </tr>
         <tr>
             <td>Transcripts</td>
             <td>L3 Name C</td>
-            <td>:white_check_mark:</td>
+            <td>:black_square_button:</td>
         </tr>
          <tr>
             <td>Licenses</td>
             <td>L3 Name C</td>
-            <td>:white_check_mark:</td>
+            <td>:black_square_button:</td>
         </tr>
         <tr>
             <td>Certifications</td>
             <td>L3 Name C</td>
-            <td>:white_check_mark:</td>
+            <td>:black_square_button:</td>
         </tr>
         <tr>
             <td>Awards</td>
             <td>L3 Name C</td>
-            <td>:white_check_mark:</td>
+            <td>:black_square_button:</td>
         </tr>
          <tr>
             <td>Other Education Documents</td>
             <td>L3 Name C</td>
-            <td>:white_check_mark:</td>
+            <td>:black_square_button:</td>
         </tr>
          <tr>
             <td>Proof of 5+ Years Work Experience</td>
             <td>L3 Name C</td>
-            <td>:white_check_mark:</td>
+            <td>:black_square_button:</td>
         </tr>
         <tr>
             <td>Professional Association Memberships</td>
             <td>L3 Name C</td>
-            <td>:white_check_mark:</td>
+            <td>:black_square_button:</td>
         </tr>
         <tr>
             <td>Recognition of Achievement Documents</td>
             <td>L3 Name C</td>
-            <td>:white_check_mark:</td>
+            <td>:black_square_button:</td>
         </tr>
          <tr>
             <td>Salary Certificate</td>
             <td>L3 Name C</td>
-            <td>:white_check_mark:</td>
+            <td>:black_square_button:</td>
         </tr>
         <tr>
             <td rowspan=10>Prong III: National Interest Waiver</td>
@@ -160,68 +160,68 @@ Requires the petitioner to: **demonstrate that the national interest would be ad
         <tr>
             <td>Scholarly Publications</td>
             <td>L3 Name C</td>
-            <td>:white_check_mark:</td>
+            <td>:black_square_button:</td>
         </tr>
         <tr>
             <td>Citations</td>
             <td>L3 Name C</td>
-            <td>:white_check_mark:</td>
+            <td>:black_square_button:</td>
         </tr>
          <tr>
             <td>Press or Publications about you/your work</td>
             <td>L3 Name C</td>
-            <td>:white_check_mark:</td>
+            <td>:black_square_button:</td>
         </tr>
         <tr>
             <td>Peer Reviewer</td>
             <td>L3 Name C</td>
-            <td>:white_check_mark:</td>
+            <td>:black_square_button:</td>
         </tr>
         <tr>
             <td>Conferences and Presentations</td>
             <td>L3 Name C</td>
-            <td>:white_check_mark:</td>
+            <td>:black_square_button:</td>
         </tr>
          <tr>
             <td>Commercial Usage of Your Work</td>
             <td>L3 Name C</td>
-            <td>:white_check_mark:</td>
+            <td>:black_square_button:</td>
         </tr>
          <tr>
             <td>Patents</td>
             <td>L3 Name C</td>
-            <td>:white_check_mark:</td>
+            <td>:black_square_button:</td>
         </tr>
          <tr>
             <td>Records of Success</td>
             <td>L3 Name C</td>
-            <td>:white_check_mark:</td>
+            <td>:black_square_button:</td>
         </tr>
          <tr>
             <td>Extra Documents</td>
             <td>Any other Documentation that sets you apart from others in your field</td>
-            <td>:white_check_mark:</td>
+            <td>:black_square_button:</td>
         </tr>
         <tr>
             <td rowspan=4>Letters of Interest</td>
             <td>References</td>
             <td>L3 Name C</td>
-            <td>:white_check_mark:</td>
+            <td>:black_square_button:</td>
         </tr>
         <tr>
             <td>Recommendations</td>
             <td>Description</td>
-            <td>:white_check_mark:</td>
+            <td>:black_square_button:</td>
         </tr>
          <tr>
             <td>Testimonials</td>
             <td>L3 Name C</td>
-            <td>:white_check_mark:</td>
+            <td>:black_square_button:</td>
         </tr>
          <tr>
             <td>Prestige</td>
             <td>Description</td>
-            <td>:white_check_mark:</td>
+            <td>:black_square_button:</td>
         </tr>
         <tr>
             <td rowspan=4>Immigration Documents</td>
@@ -232,28 +232,28 @@ Requires the petitioner to: **demonstrate that the national interest would be ad
         <tr>
             <td>Previous USCIS Approved Documents</td>
             <td>(H-1B, L-1, H-4 etc)</td>
-            <td>:white_check_mark:</td>
+            <td>:black_square_button:</td>
         </tr>
          <tr>
             <td>All I-20s and EADs for F-1</td>
             <td>L3 Name C</td>
-            <td>:white_check_mark:</td>
+            <td>:black_square_button:</td>
         </tr>
          <tr>
             <td>Entry I-94</td>
-            <td>(retrieve electronic copy from CBP website)</td>
-            <td>:white_check_mark:</td>
+            <td>(retrieve electronic copy from CBP website) https://i94.cbp.dhs.gov/I94/#/recent-search</td>
+            <td>:black_square_button:</td>
         </tr>
         <tr>
             <td rowspan=2>Submission Documents</td>
             <td><a href="https://www.uscis.gov/i-140">Form I-140</a></td>
             <td>Petition for Immigrant Worker - <a href="https://www.uscis.gov/sites/default/files/document/forms/i-140instr.pdf">Instructions</a></td>
-            <td>:white_check_mark:</td>
+            <td>:black_square_button:</td>
         </tr>
                 <tr>
                     <td><a href="https://www.dol.gov/sites/dolgov/files/ETA/oflc/pdfs/Form%20ETA-9089%20-%20August%202021.pdf">ETA-9089</a></td>
                     <td>Labor Certification Form - <a href="https://www.dol.gov/sites/dolgov/files/ETA/oflc/pdfs/eta_form_9089_instructions.pdf">Instructions</a></td>
-            <td>:white_check_mark:</td>
+            <td>:black_square_button:</td>
         </tr>
     </tbody>
 </table>
