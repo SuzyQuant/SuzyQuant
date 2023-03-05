@@ -7,20 +7,21 @@ flowchart TD
     A[Initiative] --> C[Epic 2]
     A[Initiative] --> D[Epic 3]
 
-    B --> E[Story/Task 1]
-    B --> F[Story/Task 2]
-    C --> G[Story/Task 1]
-    D --> H[Story/Task 1]
-    D --> I[Story/Task 2]
-    D --> J[Story/Task 3]
+    B --> E[Story/Task 1A]
+    B --> F[Story/Task 1B]
 
-    E --> K[Subtask 1]
+    C --> G[Story/Task 2A]
+    D --> H[Story/Task 3A]
+    D --> I[Story/Task 3B]
+    D --> J[Story/Task 3C]
 
-    G --> L[Subtask 1]
-    G --> M[Story/Task 2]
+    E --> K[Subtask 1A]
 
-    H --> N[Subtask 1]
-    I --> O[Subtask 1]
+    G --> L[Subtask  2A]
+    G --> M[Subtask 2A]
+
+    H --> N[Subtask 3A]
+    I --> O[Subtask 3B]
 ```
 ---
 ---
