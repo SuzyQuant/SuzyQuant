@@ -188,6 +188,73 @@ Provide support to businesses by creating an intelligent DROID program that can 
 R - Reach:
 The goal is to help businesses increase their revenue by 25% within the first three years of implementing the DROID program.
 
+---
+---
+---
+
+Creating S.T.A.R. is part of doing requirement engineering. S is Space, it's where you define the who, what, where, when of the project. It shows the dimensions of where your project sits in. T is Track,  where you discuss the past, present, and future space of the project. A is Assist, where it shows how you will make an impact or actions today to change the track and make an impact. R is Reach, where it points out what results you are expecting and how far your impact shifts the energy of the project. We make sure our S.T.A.R. are specific, measurable, achievable, realistic, and is timely.
+
+D.R.O.I.D. Program is where we define D as design, R as research, O as optimize, I as integrate, and D as deliver in achieving dreams or company goals. Create a S.T.A.R.  for completing the D.R.O.I.D. Narrative across four different levels of companies for example Company 1 is focused on literacy and training of the DROID, Company 2 is focused on using a quick DROID for startups projects, Company 3 is focused on the use of DROID for projects in a global scale, and Company 4 is focused on a very comprehensive use of DROIDS in a universal scale.
+
+---
+here's a S.T.A.R. for completing the D.R.O.I.D. Narrative across four different levels of companies:
+
+Company 1 - Literacy and Training:
+
+S - Space:
+Define the target audience for the D.R.O.I.D. Narrative, including their age, education level, and technical knowledge. Specify the scope of the project, including the topics covered and the format of the narrative.
+
+T - Track:
+Review existing literacy and training materials, and identify any gaps or areas for improvement. Determine how the D.R.O.I.D. Narrative can supplement existing materials and provide additional value to the target audience.
+
+A - Assist:
+Develop a comprehensive plan for promoting and distributing the D.R.O.I.D. Narrative, including social media campaigns, email newsletters, and outreach to educational institutions. Identify key influencers and advocates who can help spread the word about the project.
+
+R - Reach:
+Set a target for the number of people who will access and benefit from the D.R.O.I.D. Narrative, and measure the impact of the project on the target audience's literacy and training levels.
+
+Company 2 - Startups Projects:
+
+S - Space:
+Identify the specific needs of startups that can be addressed by the D.R.O.I.D. Narrative. Define the scope of the project, including the topics covered and the format of the narrative.
+
+T - Track:
+Review existing startup resources and identify any gaps or areas for improvement. Determine how the D.R.O.I.D. Narrative can supplement existing materials and provide additional value to startups.
+
+A - Assist:
+Develop a comprehensive plan for promoting and distributing the D.R.O.I.D. Narrative to startups, including outreach to startup accelerators, pitching events, and online communities. Identify key influencers and advocates who can help spread the word about the project.
+
+R - Reach:
+Set a target for the number of startups who will access and benefit from the D.R.O.I.D. Narrative, and measure the impact of the project on the success rates of startups who use the resource.
+
+Company 3 - Global Projects:
+
+S - Space:
+Identify the specific needs of global projects that can be addressed by the D.R.O.I.D. Narrative. Define the scope of the project, including the topics covered and the format of the narrative.
+
+T - Track:
+Review existing global project resources and identify any gaps or areas for improvement. Determine how the D.R.O.I.D. Narrative can supplement existing materials and provide additional value to global projects.
+
+A - Assist:
+Develop a comprehensive plan for promoting and distributing the D.R.O.I.D. Narrative to global projects, including outreach to international development agencies, NGOs, and multilateral organizations. Identify key influencers and advocates who can help spread the word about the project.
+
+R - Reach:
+Set a target for the number of global projects who will access and benefit from the D.R.O.I.D. Narrative, and measure the impact of the project on the success rates of global projects who use the resource.
+
+Company 4 - Universal Projects:
+
+S - Space:
+Identify the specific needs of universal projects that can be addressed by the D.R.O.I.D. Narrative. Define the scope of the project, including the topics covered and the format of the narrative.
+
+T - Track:
+Review existing universal project resources and identify any gaps or areas for improvement. Determine how the D.R.O.I.D. Narrative can supplement existing materials and provide additional value to universal projects.
+
+A - Assist:
+Develop a comprehensive plan for promoting and distributing the D.R.O.I.D. Narrative to universal projects, including outreach to international organizations and governments. Identify key influencers and advocates who can help spread the word about the project.
+
+R - Reach:
+Set a target for the number of universal projects who will access and benefit from the D.R.O.I.D. Narrative, and measure the impact of the project on the success rates of universal projects who use the resource. Additionally, measure the impact of the project on the global community and its potential for achieving universal development goals.
+
 
 
 
