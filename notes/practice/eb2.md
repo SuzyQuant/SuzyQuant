@@ -14,7 +14,7 @@ flowchart TD
     D --> I[complete_pamiva_narrative]
     D --> J[complete_tangub_narrative]
 
-    E --> K[Subtask 1A]
+    E --> K[research_DROID]
 
     G --> L[complete_long_resume]
 
