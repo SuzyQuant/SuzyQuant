@@ -38,6 +38,15 @@ Let's first take a look at the five components of the Agile Framework: Initiativ
 
 On the other hand, the ORBITAL Framework introduces a clear hierarchy with five components: Galaxy, Super Nova, Super STAR, STAR, and Droid. Each component builds upon the previous one, creating a clear path towards project completion. The Galaxy represents the overall project, while the Super Nova breaks it down into smaller initiatives. The Super STAR represents epics, while the STAR represents user stories. Finally, the Droid represents the individual tasks that make up each user story.
 
+
+| | |
+|--- |--- |
+|Galaxy|Goal/Theme|
+|Super Nova|Initatives|
+|Super STAR|Epics|
+|STAR|User Stories|
+|DROID|Individual Tasks|
+
 The Benefits of ORBITAL
 
 One of the key benefits of the ORBITAL Framework is its ability to provide a clear path towards project completion. The hierarchy of components allows for easier tracking and monitoring of progress, as well as better communication among team members. Additionally, the ORBITAL Framework provides a more comprehensive approach to project management, as it takes into account the larger picture while still breaking down the project into manageable pieces.
@@ -55,3 +64,15 @@ Sources
 
 •	Agile Alliance
 
+---
+
+My Research Notes:
+
+<img width="907" alt="image" src="https://user-images.githubusercontent.com/61100293/223614581-28293662-ce5a-4006-9a27-e313d8d5568a.png">
+
+https://www.theproducthub.io/2021/05/01/introduction-to-roadmap-architecture/
+<img width="607" alt="image" src="https://user-images.githubusercontent.com/61100293/223615234-89f9fa66-9f33-4b5b-abe1-e6a9d205ca86.png">
+<img width="457" alt="image" src="https://user-images.githubusercontent.com/61100293/223615639-b2bc78fd-fd31-4a5f-ad72-223acb0da244.png">
+<img width="501" alt="image" src="https://user-images.githubusercontent.com/61100293/223615793-037dc7aa-a169-45a0-897e-236e561e5726.png">
+<img width="505" alt="image" src="https://user-images.githubusercontent.com/61100293/223615984-b47ba259-d2c5-4f1e-8c12-c7f95079416f.png">
+<img width="554" alt="image" src="https://user-images.githubusercontent.com/61100293/223616047-8942470f-b919-4076-a1d0-8dee4ca6d15e.png">
