@@ -76,3 +76,9 @@ https://www.theproducthub.io/2021/05/01/introduction-to-roadmap-architecture/
 <img width="501" alt="image" src="https://user-images.githubusercontent.com/61100293/223615793-037dc7aa-a169-45a0-897e-236e561e5726.png">
 <img width="505" alt="image" src="https://user-images.githubusercontent.com/61100293/223615984-b47ba259-d2c5-4f1e-8c12-c7f95079416f.png">
 <img width="554" alt="image" src="https://user-images.githubusercontent.com/61100293/223616047-8942470f-b919-4076-a1d0-8dee4ca6d15e.png">
+<img width="925" alt="image" src="https://user-images.githubusercontent.com/61100293/223616243-0d600763-8fb1-4035-80e4-692d689c657b.png">
+<img width="790" alt="image" src="https://user-images.githubusercontent.com/61100293/223616371-fbd6b1cd-82ca-4a61-91a5-c7ea6f834aaf.png">
+<img width="784" alt="image" src="https://user-images.githubusercontent.com/61100293/223616534-6a1e98f4-1e03-43f8-993a-820804ee2670.png">
+<img width="788" alt="image" src="https://user-images.githubusercontent.com/61100293/223616665-da396a76-1dda-4d19-abac-45c22d79e5cc.png">
+<img width="704" alt="image" src="https://user-images.githubusercontent.com/61100293/223617527-05193260-bf28-4ed2-b5d8-3967a70d39b5.png">
+<img width="520" alt="image" src="https://user-images.githubusercontent.com/61100293/223617624-ffad5660-60d0-4f19-901d-f97d713f6217.png">
