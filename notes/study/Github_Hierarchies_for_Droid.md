@@ -15,7 +15,7 @@
 
 
 
-
+Below is a tentative design that uses the MLOps and DevOps framework from Integration to Deliver
 Design
 - Identify the Problem
 - Set Objectives
