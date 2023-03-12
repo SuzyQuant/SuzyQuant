@@ -6,7 +6,7 @@
 |Epic 3 ||DROID Implementation|
 |Epic 4 ||DROID Feature List|
 |Epic 5 ||PRONG I Narrative|
-|Feature/User Story|Use as label|Design, Research, O|
+|Feature/User Story|Use as label, write inside the description of an Epic|Design, Research, O|
 |Feature/User Story|Use as label|DROID Doc|
 |Task 1|Inside Milestone > Epic 1 for example; may follows the sub-section below|Identify the Problem|
 |Task 2||Set DROID Steps Framework Objectives|
